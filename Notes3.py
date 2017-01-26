@@ -47,4 +47,4 @@ for item in x:
     print(item)
     
 for a,b in x:
-print(b) #unpack the topo
+print(b) #unpack the tuple
