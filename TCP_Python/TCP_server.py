@@ -1,4 +1,4 @@
-//TCP server//
+
 import socket
 
 def Main():
